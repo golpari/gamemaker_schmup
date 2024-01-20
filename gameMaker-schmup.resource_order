@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":13,"path":"folders/Sprites.yy",},
+    {"name":"Sounds","order":14,"path":"folders/Sounds.yy",},
+    {"name":"Paths","order":1,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":3,"path":"folders/Shaders.yy",},
+    {"name":"Fonts","order":4,"path":"folders/Fonts.yy",},
+    {"name":"Timelines","order":5,"path":"folders/Timelines.yy",},
+    {"name":"Objects","order":6,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":7,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":8,"path":"folders/Sequences.yy",},
+    {"name":"Animation Curves","order":9,"path":"folders/Animation Curves.yy",},
+    {"name":"Notes","order":10,"path":"folders/Notes.yy",},
+    {"name":"Extensions","order":11,"path":"folders/Extensions.yy",},
+    {"name":"Particle Systems","order":12,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"gameManager","order":7,"path":"objects/gameManager/gameManager.yy",},
+    {"name":"Sprite2","order":3,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":5,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"web","order":2,"path":"objects/web/web.yy",},
+    {"name":"Sprite4","order":6,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"moth","order":4,"path":"objects/moth/moth.yy",},
+    {"name":"spiderSprite","order":1,"path":"sprites/spiderSprite/spiderSprite.yy",},
+  ],
+}
